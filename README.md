@@ -52,13 +52,7 @@
 
 </details>
 
----
 
-## 📌 Featured Projects
-
-* **[Hadith Database System](https://github.com/shahidfurqan428)** — A structured database implementation for querying and managing records.
-
----
 
 ## 📫 Connect with Me
 
